@@ -1,0 +1,10 @@
+---
+title: "Report..."
+author: David Winter
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+    pdf_document:
+        latex_engine: xelatex
+monofont : FreeMono
+mainfont: "Linux Libertine O
+---
